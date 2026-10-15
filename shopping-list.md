@@ -5,4 +5,4 @@
 - Bread
 - Apples
 - Poptarts
-- Coffe!
+- Coffee
